@@ -1,0 +1,7 @@
+main: tree.def.Main
+name: TreeVeinMiner
+version: "1.0"
+author: Frosdy
+description: This plugin adds the crafting recipe and item to destroy any tree still standing.
+api-version: 1.16
+api: "1.16"
